@@ -3,10 +3,12 @@ This repository contains a deep learning model trained to classify images of var
 ## What is the model classifying?
 The model classifies images into six different categories of animals and humans. It can identify and distinguish between cats, cows, deer, goats, chickens, and humans through a webcam.
 # Dataset
-The training data was sourced from the Mendeley Data repository:
+The training data for the animals was sourced from the Mendeley Data repository:
 
 Source: https://data.mendeley.com/datasets/fk29shm2kn/2
-Total Images: 2,195 images across all classes
+Total Images: 2,008 images across all animal classes
+
+187 images of human were sourced of myself via webcam capture
 
 # Classes in the Model
 The model can classify the following 6 classes:
